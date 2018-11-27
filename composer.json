@@ -1,0 +1,12 @@
+{
+    "name": "denis909/yii2-fake-jquery",
+    "license": "MIT",
+    "require": {
+        "yiisoft/yii2": ">=2.0.4"
+    },
+	"autoload": {
+		"classmap": [
+			"JqueryAsset.php"
+		]
+	}
+}
